@@ -1,0 +1,19 @@
+
+.mis-imagenes
+{
+    filter: grayscale(0) sepia(1) hue-rotate(200deg);
+}
+
+.jersey-25-regular
+{
+    font-family: "Jersey 25", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+#link-a-google:hover
+{
+    background-color: black;
+}
+
+
